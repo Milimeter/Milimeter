@@ -9,7 +9,7 @@ I specialize in building cutting-edge solutions across a range of technologies a
 - Integrate advanced features like voice commands and AI-driven functionalities.
 
 ### 🏥 📈 🌐 Industries:
-From **healthcare** to **finance** and **IoT**, I’ve built innovative applications tailored to meet market needs, serving both Nigerian and global markets.
+From **healthcare** to **finance** and **IoT**, I’ve built innovative applications tailored to meet market needs, serving global markets.
 
 I'm passionate about creating software solutions that make a difference, and I'm always excited to explore new technologies and challenges!
 
